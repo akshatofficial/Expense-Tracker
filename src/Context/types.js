@@ -1,0 +1,4 @@
+export const DELETE_TRANSACTION = "DELETE_TRANSACTION";
+export const CREATE_TRANSACTION = "CREATE_TRANSACTION";
+export const ERROR = "ERROR";
+export const SUCCESS = "SUCCESS";
