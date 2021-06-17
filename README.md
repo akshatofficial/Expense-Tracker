@@ -1,7 +1,7 @@
 # Hosted Link  
 Link : [Expense Tracker](https://expense-tracker-v01.netlify.app/)
 
-# Getting Started
+# About Project
 
 This project is created for keeping track of expenses using voice command which maps the category, amount, date, etc to their fields. 
 Frameworks and Libraries Used - React.js, Context API, Chart.js, Material UI and Speechly(For integrating ML model)
