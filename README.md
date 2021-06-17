@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Hosted Link  
+Link : [Expense Tracker](https://expense-tracker-v01.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started
+
+This project is created for keeping track of expenses using voice command which maps the category, amount, date, etc to their fields. 
+Frameworks and Libraries Used - React.js, Context API, Chart.js, Material UI and Speechly(For integrating ML model)
 
 ## Available Scripts
 
